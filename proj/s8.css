@@ -1,0 +1,37 @@
+
+*{
+    margin: 0;
+       padding: 0;
+   }
+   
+   html{
+       scroll-behavior: smooth;
+   }
+   body
+{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+    background:url(p1.jpg);
+    background-size: cover;
+
+}
+   
+   }
+   p{
+    font-family:Helvetica;
+    position: absolute;
+    top: 20%;
+    left: 80%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+}
+h1{
+    font-family:Comic Sans MS, Comic Sans, cursive ;
+   position:absolute;
+   font-size: 60px;
+    top: 40%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+}
